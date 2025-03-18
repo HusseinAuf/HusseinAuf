@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm Hussein Auf, a software engineer with a passion for problem-solving and taking on new challenges. I have two years of solid experience in full-stack development, specializing in Django and React for building web applications. I have worked on projects in different industries (Real estate Management, Education, and Entertainment). I am also open to any new challenges as well.
 <!--
 **HusseinAuf/HusseinAuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
